@@ -1,4 +1,4 @@
-# Stock Market Analysis and Portfolio Management
+# Stock Market Analysis and Portfolio Analysis
 
 This project analyzes historical stock market data to identify trends, correlations between sectors, and potential investment opportunities. It also includes portfolio optimization for two hypothetical investors with distinct risk profiles:
 
